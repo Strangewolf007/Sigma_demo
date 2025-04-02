@@ -1,2 +1,2 @@
 # Sigma_demo
-This is the demo for the sigma course on using Git and github
+This is the demo for the sigma course on using Git and github.
